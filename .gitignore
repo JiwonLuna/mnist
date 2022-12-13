@@ -13,3 +13,4 @@ Tools/
 *.exe
 *.pdb
 *.txt
+!.gitignore.txt
